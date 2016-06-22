@@ -26,14 +26,14 @@ You will find the following in your workspace.
 ## Usage
 * Start terminal for Linux/Mac OS X, command prompt for Windows.
 * Make sure you have Python 2.7 in your environment. (i.e. check it by python --version)
-* Change the directory to <your workspace>/src.
-* Perform 'python application.py <n>' whereas <n> is the number of Fibonacchi numbers. (e.g. python application.py 10) 
+* Change the directory to **your workspace**/src.
+* Perform 'python application.py **n**' whereas **n** is the number of Fibonacchi numbers. (e.g. python application.py 10) 
 * Check the output.
 
 ## Test Cases
-Test cases are available at <your workspace>/test directory. You can run it as below: 
+Test cases are available at **your workspace**/test directory. You can run it as below: 
 * Start terminal for Linux/Mac OS X, command prompt for Windows.
 * Make sure you have Python 2.7 in your environment. (i.e. check it by python --version)
-* Change the directory to <your workspace>/test.
+* Change the directory to **your workspace**/test.
 * Perform 'python test_application.py'
 * Make sure all test cases pass.
